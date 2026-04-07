@@ -158,7 +158,7 @@ td {
     border: 2px solid rgba(235, 234, 237, 1);
     color: #1E0E62;
     background-color: #fff;
-    margin: 38px 38px;
+    margin: 34px 34px;
     padding: 0;
 
 }
@@ -175,8 +175,8 @@ td {
     text-align: center;
     vertical-align: middle;
     border: 1px solid transparent;
-    color: #1E0E62;
+    color: rgba(255, 255, 255, 1);
     background-color: #25DAC5;
-    margin: 38px 38px;
+    margin: 34px 34px;
     padding: 0;
 }
